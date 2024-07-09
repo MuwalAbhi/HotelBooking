@@ -1,6 +1,6 @@
 
 
-# ✨ Beach Resort | Hotel Room Booking System
+# Hotel Room Booking System
 
 Hello 👋, I'm <strong>Abhishek Muwal</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. 
 
